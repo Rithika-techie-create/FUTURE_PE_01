@@ -74,9 +74,18 @@ Packaged a complete content workflow (script → video → thumbnail)
 
 🌐 LinkedIn Post
 
-[Insert LinkedIn Post Link once published]
+
 
 📩 Acknowledgement
 
 This project was completed as part of the Prompt Engineering Internship offered by Future Interns
+
+
+## 📺 Final Video
+
+[![Watch the video](thumbnail.png)](https://youtu.be/KTpOoX4QcxQ)
+
+Click the thumbnail above or [watch it directly on YouTube](https://youtu.be/KTpOoX4QcxQ).
+
 .
+
