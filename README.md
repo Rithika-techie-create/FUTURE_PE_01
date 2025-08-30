@@ -46,9 +46,8 @@ GitHub – Repository for submission
 
 Prompt Chain Documentation with Full YouTube Script  → [Doc inside repo]
 
-Thumbnail (PNG/JPG) → [Thumbnail file]
+Thumbnail (PNG/JPG) 
 
-Final YouTube Video → [YouTube Link]
 
 📝 Video Details
 
